@@ -1,9 +1,9 @@
 {
-    "name": "litepie/node",
+    "name": "nakipelo/node",
     "description": "Node bundle for Lavalite",
     "keywords": ["lavalite", "node"],
     "license": "MIT",
-    "homepage": "https://github.com/Litepie/Node",
+    "homepage": "https://github.com/nakipelo/Node",
     "authors": [{
         "name": "Renfos Technologies Pvt. Ltd.",
         "email": "info@renfos.com"
